@@ -1,0 +1,202 @@
+42 Eggs to Go 145 2 0 25
+43 Oats to Go 141 22 3 18
+44 Overnight Oats 231 31 9 8
+45 Go Nuts Granola 156 11.8 11.4 3.9
+46 Sweet Potato Latkes with Candied Walnuts 177 20 9 5
+48 Banana Pancakes 126 8.3 3.3 15.8
+50 Pumpkin Pie Pancakes 122 5.5 7 10
+52 Sweet Potato Bran Muffins 151 16.2 6.5 12.5
+53 Breakfast Casserole 197 6 8.3 24.8
+54 Flourless Fat-Free Cheese Blintzes 55 5.3 0.2 8.8
+56 Crab Cakes 115 10.2 4 10
+58 Turkey Breakfast Sausage 70 0.9 1.4 14
+60 Steak and Eggs Omelet 373 12 14 48
+62 Leek and Goat Cheese Frittata 142 6.8 7.3 11.5
+63 Smoked Salmon Scramble 246 2 10 35
+64 Huevos Rancheros Hash Brown Skillet 324 25 15 24
+68 Turkey Meatballs with Marinara Sauce 117 11.9 1.3 14.4
+70 Crispy Chicken with Sweet Mustard Dip 169 7 3.7 24
+72 Pulled Chicken 120 3 1 22
+73 Turkey Satay Skewers 100 0 1 22
+74 Noodle-less Turkey Lasagna 202 20.7 1.5 31.2
+76 Turkey Burger on an Eggplant Bun 149 11.1 5.6 15.5
+78 Spicy Turkey Stir-Fry 175 16 1.4 24.2
+79 Honey-Mushroom Chicken 168 11.3 1.8 27.3
+80 Your Moms Herb Chicken 164 0.8 6 26
+81 Spicy Latin Lime Chicken 120 0 1.5 26
+82 Turkey Stroganoff 174 9.5 1 33.5
+83 Whole Roasted Chicken 200 1.3 12 22.7
+84 Kung Pow Chicken 200 6.3 7 27.3
+86 Chicken Tortilla Soup 325 39.5 3 34.8
+87 Oven Roasted Turkey Breast 131 0 2.2 24.3
+88 Superfood Chicken Soup 179 18.4 1.8 23.5
+90 Peanut Chicken 144 3.4 2.5 28.6
+92 Chicken and Veggie One-Dish Wonder 275 27.8 4 30.7
+94 Grilled Lemon Chicken 141 0.5 3.9 26
+96 Turkey Lettuce Wraps 100 7.5 1.5 15
+98 Mandarin Chicken 231 27.5 1.5 27
+100 Curry Chicken with Cauliflower Rice 284 20 9.8 31.8
+102 Orange-Infused Chai Chicken 137 4 2 26
+103 Tom Kha Gai 206 2 10 27.3
+104 Roasted Garlic Stuffed Italian Baked Chicken 172 8.1 1.5 30.8
+106 Cabbage Rolls 153 7.5 1 29.4
+110 The Best Beef Rub 0 0 0 0
+111 Grilled Marinated Steak 170 0 8.3 24
+112 Garlic and Rosemary Grilled T-Bones 223 0 10.1 30.9
+113 Eye Round Steak 161 0 6.3 25
+114 Steak and Vegetable Soup 181 18.5 5.2 15.8
+115 15 Minute Beef Chili 236 27.4 3.8 23.6
+116 Sloppy Joes 193 18.4 4.8 20
+117 Apples and Oats Meatloaf 235 17.5 7 26
+118 Pot Roast 220 4.8 7 31
+119 Slow Cooker Beef Stew 269 18.8 8.1 28.9
+120 High Heat Eye of Round Roast 185 0 5 34
+121 Puerto Rican Bistec Encebollao 259 5.8 24.6 24.2
+122 Salisbury Steak with Mushroom and Onion Gravy 170 3 6.9 24.9
+124 Persian Beef Kebabs 152 1.2 4 25
+126 Stuffed Bell Peppers 316 17.8 14.8 28.8
+128 Orange Beef 245 11 12 23.25
+132 Mexican Carnitas 205 0.5 11 26
+134 Mustard Crusted Pork Tenderloin 151 8 2.5 24
+135 Asian Pork Roast 110 0 3 22
+136 Pan Seared Spicy Garlic-Ginger Pork Tenderloin 128 3.8 3.1 24
+138 Almond Crusted Pork Cutlets 295 4 19 30
+139 Ham and Bean Soup 226 22.3 5.1 22.6
+140 Pork and Mixed-Vegetable Stir-Fry 181 12.8 2.8 25.8
+141 Pork Chile Verde 163 7.5 2.5 24.5
+142 Hawaiian-Style Pork and Pineapple Skewers 179 13 2.7 24.4
+144 Fennel Crusted Roast Pork Tenderloin 120 0 2.5 23
+145 Coffee Rubbed Roast Pork Tenderloin 129 1.8 2.5 23
+148 Garlic and Herb Shrimp 130 4 3.9 20
+149 Shrimp Creole 168 11.8 3 22.3
+150 Coconut Shrimp with Sweet and Spicy Dipping Sauce 168 8.7 3.5 22.2
+152 Honey Garlic Shrimp 193 17.3 4.5 20
+153 Shrimp Ceviche 151 10.8 3 21
+154 Cioppino 226 11.8 5.1 31.1
+156 Coconut Seared Scallops with Wilted Spinach 277 12 16 25
+158 Scallop Stir-Fry 171 22 2.8 15.8
+160 Maple and Mustard–Baked Scallops 125 10 1 17
+161 Tuna Salad 285 7 8 48
+162 Tuna Melt–Stuffed Tomatoes 189 10 4 31
+163 Almond-Crusted Baked Cod 245 3 9.5 36.5
+164 Salmon-Quinoa Cakes 160 14.5 5.7 13
+166 Grilled Calamari Steaks withMediterranean Topping 261 7 15 27.5
+168 Parmesan Crusted Tilapia 250 6 8 38
+169 Crab-Stuffed Mushrooms 121 5 3.5 17.5
+170 Grilled Ono with Mango-Pineapple Salsa 216 9 6.3 29.8
+172 Broiled Salmon with Indian Spices 150 3 1.5 31.5
+173 Grilled Balsamic and Rosemary Salmon 117 3 2 21
+174 Mahimahi Tacos with Cilantro-Lime Crema 159 10.8 4.9 17.8
+178 Cucumber Salad 28 6.7 0 1
+179 Chicken Waldorf Salad 265 17.6 9.2 29.9
+180 Brussels Sprout and Berries Salad 209 23 12 3
+181 Salmon Salad 174 1.2 7.5 26.3
+182 Citrus Beet Salad with Toasted Walnuts 130 23 3 4
+184 Honey Dijon Kale Salad 262 32.2 15.2 5.2
+185 Spinach Caprese Salad 181 8 12 18
+186 Mediterranean Bean Salad 141 18.4 6.3 6.1
+187 Southwestern Salad with Pulled Chicken and Cilantro-Lime Dressing 477 26 21 51
+188 Thai Peanut Salad 246 50 1 16
+189 Curry Quinoa Salad 168 28.3 2.6 8.3
+192 Garlicky Roasted Brussels Sprouts 67.2 10.6 1 6.3
+194 Zucchini Fritters 60 7.9 3.2 4.5
+195 Savory Roasted Cauliflower 33 7 0 2.7
+196 Protein Mashed Potatoes 132 19.8 4.5 3.8
+197 Sauteed Red Cabbage with Honey and Mustard Seeds 65 11.4 1.9 1.8
+198 Forbidden Fried Rice 151 25 5.5 3.6
+199 Ful Medames 107 11.6 0.5 6
+200 Coleslaw 50 7.7 2.2 1.4
+202 Quinoa with Mushrooms and Spinach 200 32 4.6 7.8
+204 Roasted Sweets and Beets 149 29.2 3 2.6
+205 Chunky Apple Sauce 50 10.3 1.3 0.2
+206 Stir Fried Broccoli with Garlic 50 7.7 2.2 1.4
+207 Beets and Green Beans 46 7.3 1.7 1.5
+208 Sweet Potato Fries with Rosemary 125 18.2 5.4 1.4
+209 Creamy Cucumber Salad 44 7 0 4.7
+210 Spinach and Spaghetti Squash Soufflé 59 5.3 2.8 6.7
+214 Raspberry Sorbet 85 17 2 2
+215 Chocolate Chia Mousse 70 5.1 4.4 4.5
+216 Greek Yogurt Cheesecake with Chocolate Protein Crumb Crust 145 5.9 8.8 13.2
+218 Perfect Pumpkin Pie 215 18 10.7 12.9
+220 Sugar and Gluten Free Peanut Butter Cookies 98 3.6 8 4.3
+221 Protein Pumpkin-Spice Cookies 25 1.2 0.6 4.2
+222 Apple Pie Pockets 118 12.7 7 3.2
+224 Coconut Macaroons 38 2 3 1.2
+226 Key Lime Protein Pie 100 6.3 2.4 14
+228 Protein Pineapple Jell-O Dessert 69 6.5 0.6 9.2
+229 German Chocolate Black Bean Cake 199 28.9 8.3 11
+230 Chocolate Protein Mug Cake with Whipped Peanut Butter Frosting 124 8.2 3.7 17.1
+234 Cinnamon and Sugar Shake 160 9 2.2 26.5
+235 Banana-Nut Muffin Shake 312 28 9 30
+236 Wild Berry Smoothie 216 17 1 37
+237 Protein Pumpkin-Spice Latte 120 4 0 24
+238 Protein Pina Colada 296 29 10 27
+239 Protein Horchata 150 19 5 25
+240 Peaches N Cream Shake 180 19 5 25
+241 The Big Green Smoothie 289 44 1 29
+242 Strawberry Cheesecake Shake 212 19 2 33
+243 Peanut Butter Nutella Shake 154 6 0 33
+244 Blueberries and Beets Smoothie 353 58 5 28
+245 Nuts About Honey Shake 349 39 10 27
+246 Root Beer Float Shake 292 17 13 30
+247 Blueberry Muffin Shake 278 30 6 30
+248 Orange Creamsicle Shake 230 20 5 26
+249 Raspberry-Orange Shake 230 20 5 26
+252 Snickerdoodle Bars 195 8.5 11 16.8
+253 Tropical Island Crunch Bars 300 24.4 18.8 11.5
+254 Oatmeal Cookie Bars 143 14.3 7.3 16.9
+256 Peanut Butter and Maple Balls 195 26.2 7.8 8
+257 Almond Butter and Honey Crisps 250 25.6 11.8 11.7
+258 Chewy Gooey Fudge Bars 166 27.7 6.1 4.9
+259 Chewy Apple Turnover Bars 226 38 9.2 3
+260 Chocolate–Peanut Butter Crispy Bars 186 22.8 6.1 12.2
+262 Chewy Sweet Cinnamon Bars 208 35 7.8 3.8
+263 Chewy Coconut Bars 225 36.1 9.5 4.1
+264 Dark Chocolate–Raspberry Truffle Bars 131 9.2 8 8.2
+266 Banana Bread Bars 120 5.6 7.7 9.6
+267 Lemon Bar Cookies 195 9 11 17
+268 Peanut Butter Cup Bars 130 10 3.8 18
+269 Strawberry Cheesecake Bars 205 9.8 11 16.8
+15.1 Anabolic French Toast Simple Version 250 3 37 3 19
+15.2 Anabolic French Toast P28 Version 350 8 31 5 39
+15.3 Anabolic French Toast ICON Version 370 11 36 5 43
+16.1 French Toast Blueberry Pancakes 310 3 39 4 33
+16.2 French Toast Blueberry Pancakes- light version 270 3 32 4 31
+18.1 Liquid Muscle Quick & Easy Pancakes 510 2 27 2 95
+18.2 Liquid Muscle Quick & Easy Pancakes - light version 285 2 19 2 48
+18.3 Apple Protein Pancakes 166 2 24 4 15
+19.1 Banana Protein Pancakes 178 2 26 4 15
+22.1 Hamburger 630 19 53 10 58
+64.1 Cottage Cheese Protein Pudding- Chocolate 99 1 14 2 8
+66.1 Apple Goop 93 1 22 5 1
+67.1 Fat-Free Chocolate Jell-O Protein Pudding 209 2 25 2 23
+68.1 Cottage Cheese Chocolate PB2 Delight 102 2 10 2 11
+69.1 Dairy Dream Protein Dessert with Cottage Cheese - Small 195 0 18 3 25
+69.2 Dairy Dream Protein Dessert with Cottage Cheese - Medium 250 0 27 4 31
+70.1 Protein Chocolate Lava Cake 175 3 5 2 32
+71.1 Chocolate Strawberry Almond Proteinsicles 196 3 18 4 25
+72.1 Chocolate Strawberry PB2 Proteinsicles 303 5 21 8 45
+73.1 Vanilla Berry Proteinsicles 255 3 21 6 38
+74.1 Strawberry Cheesecake Proteinsicles 289 4 23 7 40
+24.4 Grilled Cheese Sandwich Regular Ass White Bread 246 6 34 2 14
+0.01 Mass Gainer Shake - Water 625 121 2.5 25
+0.02 4oz chicken 335 0 19 38
+0.03 1cup rice 206 45 1.8 5
+0.04 0.5cup rice 103 22.5 0.9 2.5
+0.05 2 slices Kroger Hardwood Sliced Bacon 80 0 7 5
+0.06 1 slice Kroger Garlic Texas Toast 180 22 10 4
+0.07 28g Sabra Classic Hummus 70 4 5 2
+0.08  1 loaf Toufayan Classic White Pita 150 31 1 6
+0.09 Large BuddhaBowl Delish.com (4oz ckn, 1c rice 2c s. Potato) 631 102 4 43
+0.0010 Small BuddhaBowl Delish.com (4oz ckn, 1/2c rice 1/2c s. Potato) 352 39 4 38
+0.0011 1/2 cup Kroger extra wide egg noodles 110 20 2 4
+0.0012 1 cup KRoger extra wide egg noodles 220 40 3 8
+0.0013 1/2 cup Kodiak Chocolate pancake mix 190 28 4 14
+0.0014 133g Sweet Potato 114 27 0 2
+0.11 Anabolic Sausage McMuffin 447 30 20 38
+0.281 Anabolic Grilled Cheese 279 33 3 30
+0.282 Anabolic Grilled Cheese (1/2 sandwich) 139 17 1 15
+0.521 Anabolic PBJ 562 49 18 51
+0.522 Anabolic PBJ (1/2) sandwich 231 25 8 25
+0.441 RJF Bacon and Egg freezer burrito (1 burrito) 565 39 16 60
+0.442 RJF Bacon and Egg freezer burrito (1/2 burrito) 233 20 8 30
